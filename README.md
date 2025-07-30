@@ -1,1 +1,2 @@
-Simple web directory brute forcer
+# Web-BruteForcer
+Simple Web Directory BruteForcer
